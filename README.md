@@ -10,7 +10,7 @@ Running this repo requires Python and the installation of Jupyter Notebook and P
 
 ## Usage
 
-Clone this repo. From inside the directory where the repo was cloned, start Jupyter Notebook via the command line:
+Clone this repo. Unzip the two zipped datasets ending in .gz. From inside the directory where the repo was cloned, start Jupyter Notebook via the command line:
 
 ```console
 foo@bar:~$ jupyter notebook
